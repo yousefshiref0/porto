@@ -29,7 +29,7 @@ export const Navbar: React.FC = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <span className="text-primary">PORTFOLIO</span>
+              <span className="text-primary">Eljoooo</span>
               <span className="handwritten text-[#FF6B35] text-sm ml-2">v2.0</span>
             </motion.div>
           </Link>
