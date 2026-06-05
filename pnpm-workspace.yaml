@@ -1,0 +1,8 @@
+packages:
+  - '.'
+allowBuilds:
+  '@tailwindcss/oxide': true
+  esbuild: true
+minimumReleaseAgeExclude:
+  - react-router-dom@7.17.0
+  - react-router@7.17.0
